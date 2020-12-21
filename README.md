@@ -7,7 +7,7 @@ luci-app-passwall停止开发，当然如果存在BUG，欢迎各位大佬PR。
 请使用[基于官方openwrt源码](https://github.com/Lienol/openwrt) 和 [基于大雕源码](https://github.com/Lienol/openwrt/tree/dev-lean-lede)源码编译
 
 使用方法：
-编辑OpenWRT源码根目录 feeds.conf.default 将https://github.com/Lienol/openwrt-package 替换为 https://github.com/huchanghui123/Lienol-openwrt-packages-backup
+编辑OpenWRT源码根目录 feeds.conf.default 将https://github.com/Lienol/openwrt-package 替换为 https://github.com/tangzhi1996/Lienol-openwrt-packages-backup
 
 
 然后执行
